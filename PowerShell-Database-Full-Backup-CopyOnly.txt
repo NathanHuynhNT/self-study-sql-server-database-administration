@@ -1,0 +1,1 @@
+﻿Backup-SqlDatabase -ServerInstance SQLSERVER\PROD2019 -Database "AdventureWorks2019" -BackupAction Database -BackupFile "C:\SQL_Tutorials\Database-Backups\AdventureWorks2019_04012020.bak" -CopyOnly
